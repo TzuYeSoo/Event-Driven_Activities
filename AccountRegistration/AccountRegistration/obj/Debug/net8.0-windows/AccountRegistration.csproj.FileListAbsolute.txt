@@ -1,0 +1,17 @@
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net8.0-windows\AccountRegistration.exe
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net8.0-windows\AccountRegistration.deps.json
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net8.0-windows\AccountRegistration.runtimeconfig.json
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net8.0-windows\AccountRegistration.dll
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net8.0-windows\AccountRegistration.pdb
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.frmConfirm.resources
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.NextButton.resources
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.AssemblyInfoInputs.cache
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.AssemblyInfo.cs
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.csproj.CoreCompileInputs.cache
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.dll
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\refint\AccountRegistration.dll
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.pdb
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\AccountRegistration.genruntimeconfig.cache
+C:\Users\P102P9PH1\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net8.0-windows\ref\AccountRegistration.dll
