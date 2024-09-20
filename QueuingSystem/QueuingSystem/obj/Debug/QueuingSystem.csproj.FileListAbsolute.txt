@@ -1,0 +1,12 @@
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\bin\Debug\QueuingSystem.exe.config
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\bin\Debug\QueuingSystem.exe
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\bin\Debug\QueuingSystem.pdb
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.csproj.AssemblyReference.cache
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.CashierWindowQueueForm.resources
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.QueuingForm.resources
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.Properties.Resources.resources
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.csproj.GenerateResource.cache
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.csproj.CoreCompileInputs.cache
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.exe
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.pdb
+C:\Users\samaniego.287741\source\repos\QueuingSystem\QueuingSystem\obj\Debug\QueuingSystem.NewServing.resources
